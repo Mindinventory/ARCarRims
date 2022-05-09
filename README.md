@@ -11,7 +11,7 @@
 </a>
 <p></p> 
 
-Have you tired of thinking about what will look better while selecting or purchasing anything like where to put a flowerpot, lamp, a photo frame, or which car rims will suit the car then let’s check out this wonderful ARKit feature/demo which will help you to determine the proper car rims which go with your car Wheels.
+Are you tired of thinking about what will look better while selecting or purchasing anything like where to put a flowerpot, lamp, a photo frame, or which car rims will suit the car? Then let's check out this wonderful ARKit feature/demo which will help you to determine the proper car rims which go with your car Wheels. 
 
 ## Preview
 https://user-images.githubusercontent.com/42262083/167071465-129a1ac0-b125-4cde-983f-9c5b024a858d.mp4
