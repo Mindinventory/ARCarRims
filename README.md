@@ -14,8 +14,7 @@
 Are you tired of thinking about what will look better while selecting or purchasing anything like where to put a flowerpot, lamp, a photo frame, or which car rims will suit the car? Then let's check out this wonderful ARKit feature/demo which will help you to determine the proper car rims which go with your car Wheels. 
 
 ## Preview
-![CarRims](https://user-images.githubusercontent.com/42262083/167353009-cb9a4ea0-7b3e-4b77-8bc1-6b5b4460165b.gif)
-
+![Car rims](https://user-images.githubusercontent.com/42262083/167416926-dc26931b-080c-420e-aaf1-1228256c88aa.gif)
 
 # Requirements
 You should be using XCode 9.x.
